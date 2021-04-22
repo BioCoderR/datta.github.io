@@ -1,0 +1,18 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #272829;
+}
+
+a {
+  color: #149ddd;
+}
+
+a:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+
+h2, h4 {
+  font-family: "Raleway", sans-serif;
+  color: linear-gradient(to left, #33ccff 0%, #00ff99 100%);
+}
