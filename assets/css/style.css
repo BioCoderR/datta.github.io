@@ -22,10 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 $background:#B2B1CF;
 $white:#fff;
-body{
-  background-color: $background;
-  font-family: 'Montserrat', sans-serif;
-}
+
 .container{
   height:70px;
   padding:55px;
@@ -161,10 +158,6 @@ body{
     top:10px;
     right:10px;
   }
-  
-
-
- 
 
 /*--------------------------------------------------------------*/
 .back-to-top {
