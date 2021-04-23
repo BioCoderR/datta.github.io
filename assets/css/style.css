@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 $background:#B2B1CF;
-$white:#fff;
+$white:#37b3ed;
 
 .container{
   height:70px;
@@ -226,7 +226,7 @@ $white:#fff;
   text-decoration: none;
 }
 
-#header .profile .social-links a {
+#header .profile a {
   font-size: 18px;
   display: inline-block;
   background: #212431;
@@ -241,7 +241,7 @@ $white:#fff;
   transition: 0.3s;
 }
 
-#header .profile .social-links a:hover {
+#header .profile {
   background: #149ddd;
   color: #fff;
   text-decoration: none;
